@@ -1,3 +1,7 @@
+
+
+12/08
+
 # Qual a diferença entre "console.log()" e "document.getElementById().textContent"? 
 
 Na prática eu vejo que o console.log() responde pelo terminal e o outro, responde de acordo com o "id" linkado.
@@ -35,3 +39,4 @@ console.log("Hello"); --> Terminal ou Console do Navegador --> Desenvolvedor
 ## Por que no JavaScript essa separação existe? 
 
 O JavaScript foi desenhado desde o primeiro dia para ser a linguagem oficial da interface do usuário (UI). Enquanto linguagens tradicionais focavam em conversar diretamente com o sistema operacional ou com o terminal, o JS precisava manipular a árvore visual de uma página web em tempo real. (Preciso verificar isso, não me recordo).
+
